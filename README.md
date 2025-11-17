@@ -46,6 +46,7 @@ database.py → engine e criação do banco
 main.py → ponto de entrada da aplicação
 
 📌 Funcionalidades da API
+
 ✔ Listar usuários
 
 GET /usuarios/usuarios
@@ -58,17 +59,21 @@ nome
 
 email
 
+
 ✔ Criar usuário
 
 POST /usuarios/usuarios/criar
+
 
 ✔ Atualizar usuário
 
 PATCH /usuarios/usuarios/atualizar/{id}
 
+
 ✔ Deletar usuário
 
 DELETE /usuarios/usuarios/deletar/{id}
+
 
 ▶ Como rodar o projeto
 
