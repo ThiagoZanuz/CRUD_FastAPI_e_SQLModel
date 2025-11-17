@@ -19,15 +19,22 @@ Pydantic
 
 📁 Estrutura do projeto
 📦 projeto-fastapi-crud
+
 ├── models/
 │   └── usuario_models.py
+
 ├── schemas/
 │   └── usuario_schemas.py
+
 ├── routes/
 │   └── usuarios_routes.py
+
 ├── database.py
+
 ├── database.db
+
 ├── main.py
+
 └── README.md
 
 
